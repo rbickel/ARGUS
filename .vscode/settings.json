@@ -15,5 +15,7 @@
         "test_*.py"
     ],
     "python.testing.pytestEnabled": false,
-    "python.testing.unittestEnabled": true
+    "python.testing.unittestEnabled": true,
+    "appService.defaultWebAppToDeploy": "undefined/subscriptions/193068da-eab1-4bef-835b-51a4d562e38d/resourceGroups/argus/providers/Microsoft.Web/sites/rbkl-argus",
+    "appService.deploySubpath": "frontend"
 }
