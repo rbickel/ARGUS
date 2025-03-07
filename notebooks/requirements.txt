@@ -23,3 +23,4 @@ jsonpath-ng
 thefuzz
 azure-ai-formrecognizer
 seaborn
+marshmallow==3.22.0
